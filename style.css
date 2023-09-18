@@ -41,15 +41,17 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
+
+  /* profile */
 
   #profile {
     text-align: center;
     padding: 24px;
   }
 
-  /* profile */
   #profile img {
     width: 110px;
     border-radius: 20px;
