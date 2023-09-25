@@ -178,6 +178,10 @@ footer {
   .light {
     --bg-url: url(./assets/bg-desktop-light.jgp);
   }
+
+  img {
+    max-height: 200px;
+  }
 }
 
 /* animation */
